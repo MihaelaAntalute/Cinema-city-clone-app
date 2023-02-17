@@ -3,7 +3,7 @@ And here you can find documentation of the Cinema City Clone project
 
 
 ## 🚀 About Me
-I'm a back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology | 💼 Actively looking for a job | 4️⃣ personal projects
+I'm a back-end software developer, passionate about solving problems using technology 
 ## 🛠 Skills
 Java, OOP, Spring Boot, Rest APIs, MYSQL
 
