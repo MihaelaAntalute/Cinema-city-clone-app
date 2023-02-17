@@ -5,7 +5,7 @@ And here you can find documentation of the Cinema City Clone project
 ## 🚀 About Me
 I'm a back-end software developer, passionate about solving problems using technology 
 ## 🛠 Skills
-Java, OOP, Spring Boot, Rest APIs, MYSQL
+Java, OOP, Spring Boot, Rest APIs, MySQL
 
 
 ## 🔗 Links
