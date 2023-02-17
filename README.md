@@ -14,7 +14,7 @@ Java, OOP, Spring Boot, Rest APIs, MySQL
 
 
 
-**#Cinema city clone**
+**##Cinema city clone**
 
 
 This application can be used by any cinema which needs a digital ticketing system, and allows users to purchase tickets for their favorite movies.
