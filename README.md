@@ -191,7 +191,7 @@ To deploy this project run
 
 ## Usage/Examples
 
-You cand use the a demo version of the app, using SwaggerUI and following this link:
+You can use a demo version of the app, using SwaggerUI and following this link:
 
 ```javascript
 https://obscure-peal.heroku.app/swagger-ui/
